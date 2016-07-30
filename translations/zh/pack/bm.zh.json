@@ -6,6 +6,34 @@
         "title": "信用崩盘"
     },
     {
+        "code": "11022",
+        "flavor": "“二十三秒乐趣多。” —太空喵公主",
+        "keywords": "局势",
+        "text": "本卡牌打出后不会被销毁，直到另一个<strong>局势</strong>被打出或一个议案被窃取。\n每个独有的非<strong>区域</strong>资产或升级的规则文字成为空白。",
+        "title": "谣言制造厂"
+    },
+    {
+        "code": "11023",
+        "flavor": "赋平衡以平衡。",
+        "keywords": "局势",
+        "text": "当一层你使用奈菲尔破解其所有子进程的防火墙遭遇结束时，放置1枚能量指示物到奈菲尔上。\n奈菲尔上每有1枚能量指示物，其强度+1。\n1[credit]: 破解<strong>屏障</strong>子进程。",
+        "title": "奈菲尔"
+    },
+    {
+        "code": "11024",
+        "flavor": "“。” —奥马尔·姜",
+        "keywords": "局势",
+        "text": "每当你遭遇一个<strong>屏障</strong>时，你可以从你的堆阵安装回形针（支付其安装费用）。\nX[credit]: 强度+X。如可能，破解最多X个<strong>屏障</strong>子进程。",
+        "title": "回形针"
+    },
+    {
+        "code": "11025",
+        "flavor": "这个程序",
+        "keywords": "局势",
+        "text": "2[credit]: 破解最多2个<strong>警报</strong>子进程。\n2[credit]: 强度+4\n2[credit], <strong>将金鹰加入你的操控器</strong>: 关闭一个<strong>警报</strong>。在一次遭遇中使用金鹰破解该<strong>警报</strong>上的所有子进程后，才能使用本能力。",
+        "title": "金鹰"
+    },
+    {
         "code": "11026",
         "flavor": "“最好的一点是，它合法！” —可汗",
         "keywords": "工作",
